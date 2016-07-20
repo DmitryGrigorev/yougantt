@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Semantic</id>
+    <version>0.1</version>
+    <title>Semantic UI</title>
+    <authors>Jack Lukic</authors>
+    <owners>Jack Lukic</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://www.semantic-ui.com/</projectUrl>
+    <iconUrl>http://semantic-ui.com/images/demo/vector.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>UI is the DNA of the web. Semantic empowers designers and developers by creating a language for sharing UI.</description>
+    <summary>Semantic UI provides a collection of interface modules like forms, buttons, menus, as well as javascript modules like checkboxes, sidebars, modalsSemantic UI provides a collection of interface modules like forms, buttons, menus, as well as javascript modules like checkboxes, sidebars, modals</summary>
+    <releaseNotes>https://github.com/quirkyinc/semantic</releaseNotes>
+    <tags>Semantic UI Framework CSS Javascript</tags>
+  </metadata>
+</package>

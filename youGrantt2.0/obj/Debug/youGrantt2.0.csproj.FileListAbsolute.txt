@@ -1,0 +1,5 @@
+C:\Users\Dmitry Grigorev\Documents\Visual Studio 2012\Projects\youGrantt2.0\youGrantt2.0\obj\Debug\youGrantt2.0.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry Grigorev\Documents\Visual Studio 2012\Projects\youGrantt2.0\youGrantt2.0\bin\youGrantt2.0.dll
+C:\Users\Dmitry Grigorev\Documents\Visual Studio 2012\Projects\youGrantt2.0\youGrantt2.0\bin\youGrantt2.0.pdb
+C:\Users\Dmitry Grigorev\Documents\Visual Studio 2012\Projects\youGrantt2.0\youGrantt2.0\obj\Debug\youGrantt2.0.dll
+C:\Users\Dmitry Grigorev\Documents\Visual Studio 2012\Projects\youGrantt2.0\youGrantt2.0\obj\Debug\youGrantt2.0.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PugViewEngine</id>
+    <version>0.0.2.0</version>
+    <title>PugViewEngine</title>
+    <authors>Pat Lapinski</authors>
+    <owners>Pat Lapinski</owners>
+    <licenseUrl>https://github.com/entith/PugViewEngine/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/entith/PugViewEngine</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A view engine using the Pug template language.</description>
+    <summary />
+    <releaseNotes>Initial alpha release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Pug Jade View Engine ViewEngine</tags>
+    <dependencies>
+      <dependency id="Edge.js" version="5.9.1" />
+      <dependency id="Microsoft.AspNet.Mvc" version="5.2.3" />
+      <dependency id="RazorEngine" version="3.8.2" />
+    </dependencies>
+  </metadata>
+</package>

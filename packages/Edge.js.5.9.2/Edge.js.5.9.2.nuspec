@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Edge.js</id>
+    <version>5.9.2</version>
+    <authors>Edge.js</authors>
+    <owners>Edge.js</owners>
+    <licenseUrl>https://raw.githubusercontent.com/tjanczuk/edge/master/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>With Edge.js you can script Node.js in a .NET application. Edge.js allows you to run Node.js and .NET code in one process. You can call Node.js functions from .NET and .NET functions from Node.js. Edge.js takes care of marshalling data between CLR and V8. Edge.js also reconciles threading models of single threaded V8 and multi-threaded CLR. Edge.js ensures correct lifetime of objects on V8 and CLR heaps. Edge.js NuGet package v5.9.2 supports scripting Node.js v5.9.1 with Edge.js v5.9.2.</description>
+    <copyright>Copyright 2015 Tomasz Janczuk</copyright>
+    <tags>node.js node .net edge edge.js v8 clr coreclr mono interop javascript</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="NETStandard.Library" version="1.6.0" />
+        <dependency id="System.Console" version="4.0.0" />
+        <dependency id="System.Runtime" version="4.1.0" />
+        <dependency id="System.Runtime.InteropServices" version="4.1.0" />
+        <dependency id="System.Dynamic.Runtime" version="4.0.11" />
+        <dependency id="System.Linq" version="4.1.0" />
+        <dependency id="System.Linq.Expressions" version="4.1.0" />
+        <dependency id="System.IO.FileSystem" version="4.0.1" />
+        <dependency id="System.Runtime.Loader" version="4.0.0" />
+        <dependency id="Microsoft.CSharp" version="4.0.1" />
+        <dependency id="System.Reflection" version="4.1.0" />
+        <dependency id="System.Xml.XPath.XmlDocument" version="4.0.1" />
+        <dependency id="System.Xml.ReaderWriter" version="4.0.11" />
+        <dependency id="System.Private.Uri" version="4.0.1" />
+        <dependency id="System.Collections.Specialized" version="4.0.1" />
+        <dependency id="Microsoft.DotNet.ProjectModel" version="1.0.0-rc3-003121" />
+        <dependency id="Microsoft.Extensions.DependencyModel" version="1.0.0" />
+        <dependency id="Microsoft.DotNet.InternalAbstractions" version="1.0.0" />
+        <dependency id="System.AppContext" version="4.1.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

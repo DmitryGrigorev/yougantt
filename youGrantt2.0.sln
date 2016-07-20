@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youGantt2.0", "youGrantt2.0\youGantt2.0.csproj", "{1B739BC4-FCD4-4E8C-81F7-975D3A97699F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B739BC4-FCD4-4E8C-81F7-975D3A97699F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B739BC4-FCD4-4E8C-81F7-975D3A97699F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B739BC4-FCD4-4E8C-81F7-975D3A97699F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B739BC4-FCD4-4E8C-81F7-975D3A97699F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
